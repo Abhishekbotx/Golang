@@ -1,0 +1,8 @@
+Some good commands to have 
+
+🌟Go mod init _reponame
+//EG Go mod init github.com/abhishekbotx/golang
+
+🌟Go get _packagelink -->To download/install the 3rd party _packagelink
+
+🌟Go mod tidy -->to move package from indirect to direct
